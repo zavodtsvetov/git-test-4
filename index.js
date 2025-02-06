@@ -1,3 +1,4 @@
 const fig = 'ma'
 
-console.log('А я вот тут решил мастер поменять чутка')
+console.log('Теперь мы добавим это сюда, находимся мы в фичере эбаут')
+console.log('LOOOOOOOOOL')
